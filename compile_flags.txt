@@ -1,0 +1,5 @@
+-std=c99
+-m64
+-g
+-Iinclude/
+-Isrc/
