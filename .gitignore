@@ -38,3 +38,24 @@ examples/pomp-ping-cpp
 
 # vscode settings
 .vscode/
+# autotools generated struff
+build-aux/
+m4/
+configure
+config.h.in
+aclocal.m4
+config.log
+config.h
+config.status
+Makefile
+Makefile.in
+libtool
+stamp-h1
+INSTALL
+
+bin
+build
+
+deb/opt/
+deb/usr
+deb/*.deb
