@@ -42,3 +42,9 @@ libtool
 stamp-h1
 INSTALL
 
+bin
+build
+
+deb/opt/
+deb/usr
+deb/*.deb

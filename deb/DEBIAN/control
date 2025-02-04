@@ -1,0 +1,5 @@
+Package: libpomp
+Version: 1.0.0
+Maintainer: Michael El Omar
+Architecture: amd64
+Description: Printf Oriented Message Protocol
